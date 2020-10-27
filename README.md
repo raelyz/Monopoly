@@ -13,3 +13,4 @@ Instructions
 7) Attempts to buy a property with insufficient funds will automatically bankrupt you and result in a lose
 8) Press reset to restart the game.
 
+I do not own any of the images used and are used mainly for illustration purposes in this side project.
